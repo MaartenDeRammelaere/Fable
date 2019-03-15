@@ -1,5 +1,4 @@
 import tkinter as tk
-    
 
 def write_slogan():
     print("Dit kan een pop up geven over hoe dit programma te gebruiken")
